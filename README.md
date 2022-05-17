@@ -19,10 +19,9 @@
 <h2>🙏 contact </h2>
 
 
-</a> <a href="mailto:chaedonggi@gmail.com">
+<a href="mailto:chaedonggi@gmail.com">
 <img
-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedonggi@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedonggi@gmail.com" />
 </a>
 
 
