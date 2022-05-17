@@ -2,11 +2,9 @@
 
 # Hi there, I'm Donggi 👋 
 
-- 👀 I’m interested in Frontend.
-- 🌱 I’m currently learning React.
 
-<a href="mailto:chaedonggi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedonggi@gmail.com"/></a>
 
+출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]]
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -18,6 +16,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 
+<h2>🙏 contact </h2>
+
+
+</a> <a href="mailto:chaedonggi@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedonggi@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 <!---
