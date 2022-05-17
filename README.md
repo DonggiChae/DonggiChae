@@ -4,7 +4,8 @@
 
 - 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me chaedonggi@gmail.com
+
+<a href="mailto:chaedonggi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaedonggi@gmail.com"/></a>
 
 <h2> My tech stack 📚 </h2>
 
@@ -18,12 +19,6 @@
 
 
 
-<h2> About my git 📚 </h2>
-
-https://img.shields.io/github/languages/count/beygee/survive
-https://img.shields.io/github/languages/top/beygee/survive
-https://img.shields.io/github/commit-activity/w/beygee/survive
-https://img.shields.io/github/last-commit/beygee/survive
 
 <!---
 DonggiChae/DonggiChae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
