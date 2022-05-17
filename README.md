@@ -1,10 +1,11 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonggiChae%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 # Hi there, I'm Donggi 👋 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DonggiChae&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonggiChae&layout=compact&theme=dracula)]
+<br>
 
 
-출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]]
+
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -18,6 +19,7 @@
 
 <h2>🙏 contact </h2>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonggiChae%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="mailto:chaedonggi@gmail.com">
 <img
