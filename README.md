@@ -1,12 +1,10 @@
-
+# Hi there, I'm Donggi 👋 
 
 
 - 
 - 
-- 👋 Hi, I’m @DonggiChae
 - 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Startup.
 - 📫 How to reach me chaedonggi@gmail.com
 
 <h2> My tech stack 📚 </h2>
