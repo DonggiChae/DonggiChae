@@ -1,8 +1,5 @@
 # Hi there, I'm Donggi 👋 
 
-
-- 
-- 
 - 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me chaedonggi@gmail.com
